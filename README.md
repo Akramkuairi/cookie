@@ -28,9 +28,10 @@ order list
  - spring 
 
 checkbox 
-- [] red
-- [] black 
-- [x] yellow 
+
+- [x] red
+- [ ] black
+- [ ] blue
 
 
 link:
