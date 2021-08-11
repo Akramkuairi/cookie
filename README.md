@@ -104,7 +104,7 @@ table
 | table data    | data          | data          |
 
 
-``` this is the code ```
+
 
 image from link
 ![sunflower image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sunflower_from_Silesia2.jpg/320px-Sunflower_from_Silesia2.jpg)
